@@ -1,0 +1,18 @@
+# Bỏ file tạm và cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Bỏ file hệ thống
+.DS_Store
+*.swp
+*.swo
+
+# Thư mục build (nếu có dùng pyinstaller)
+build/
+dist/
+
+# Venv nếu bạn dùng môi trường ảo
+venv/
+.env/

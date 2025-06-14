@@ -1,0 +1,163 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "lv1.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "lv0.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 961,
+                "y": 539
+            }
+        },
+        "lv1.tmx": {
+            "scale": 0.7124999999999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 960.0000000000001,
+                "y": 538.9473684210526
+            }
+        },
+        "lv2.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 960,
+                "y": 540.6666666666666
+            }
+        },
+        "lv3.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 960,
+                "y": 540.6666666666666
+            }
+        },
+        "lv4.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 959.9999999999999,
+                "y": 540
+            }
+        },
+        "lv5.tmx": {
+            "scale": 0.8371875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 960.3583426651737,
+                "y": 540.5001866368049
+            }
+        },
+        "lv5.tmx#in_cave": {
+            "scaleInDock": 1
+        },
+        "lv6.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 960,
+                "y": 540.6666666666666
+            }
+        },
+        "lv7.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 960,
+                "y": 540.6666666666666
+            }
+        },
+        "lv8.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 960,
+                "y": 540.6666666666666
+            }
+        },
+        "lv9.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 959.9999999999999,
+                "y": 540
+            }
+        },
+        "lvt.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 991.3333333333331,
+                "y": 561.3333333333333
+            }
+        },
+        "lvtest1.tmx": {
+            "scale": 0.8371875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 959.7611048898843,
+                "y": 538.7084733109369
+            }
+        },
+        "lvtest1.tmx#in_cave": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "tileset_incave.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/tritr/pygameSonDoong/assets/tilemap",
+    "last.externalTilesetPath": "C:/Users/tritr/pygameSonDoong/tiled_level",
+    "last.imagePath": "C:/Users/tritr/pygameSonDoong/assets",
+    "map.height": 18,
+    "map.lastUsedExportFilter": "CSV files (*.csv)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 60,
+    "map.tileWidth": 60,
+    "map.width": 32,
+    "openFiles": [
+        "lv0.tmx",
+        "lv1.tmx",
+        "lv2.tmx",
+        "lv3.tmx",
+        "lv4.tmx",
+        "lv5.tmx",
+        "lv6.tmx",
+        "lv7.tmx",
+        "lv8.tmx",
+        "lv9.tmx",
+        "tileset_incave.tsx"
+    ],
+    "project": "level1.tiled-project",
+    "recentFiles": [
+        "lv0.tmx",
+        "tileset_incave.tsx",
+        "lv9.tmx",
+        "lv8.tmx",
+        "lv7.tmx",
+        "lv6.tmx",
+        "lv5.tmx",
+        "lv4.tmx",
+        "lv3.tmx",
+        "lv2.tmx",
+        "lv1.tmx",
+        "lvtest1.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
+    "tileset.type": 1
+}
